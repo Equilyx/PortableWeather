@@ -1,2 +1,2 @@
 # PortableWeather
-Weather Sensor For Nyp Made By Noel
+Weather Sensor For NYP Made By Noel
